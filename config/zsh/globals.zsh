@@ -16,6 +16,3 @@ export PATH=$HOME/.yarn/bin:$DENO_INSTALL/bin:$DOTS_DIR/bin:$GO_PATH:$PATH
 if [[ "$TERM" = screen ]]; then
     TERM=screen-256color
 fi
-
-#
-export NPM_TOKEN=24d57f43-e8b6-4580-a061-9cfda80b65b0
